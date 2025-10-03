@@ -90,7 +90,7 @@ bash
 Copy code
 npm test
 Live Demo & Repository
-Live demo:  { Add your deployed link }
+Live demo: https://linkeplus-intership.netlify.app/
 
 GitHub repository: user-management-app-yourname
 
